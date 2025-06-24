@@ -4,13 +4,11 @@ This game was developed in Java, where we experimented with graphical user inter
 # Images
 
 <table>
-  <tr>
 	<img src="images/game_2_1.png" width="100%"/>
-  </tr>
   <tr>
-  	<td><img src="images/game_2_2.png" width="300"/></td>
-    <td><img src="images/game_2_3.png" width="300"/></td>
-    <td><img src="images/game_2_4.png" width="300"/></td>
+  	<td><img src="images/game_2_2.png" width="30%"/></td>
+    <td><img src="images/game_2_3.png" width="30%"/></td>
+    <td><img src="images/game_2_4.png" width="30%"/></td>
   </tr>
 </table>
 
